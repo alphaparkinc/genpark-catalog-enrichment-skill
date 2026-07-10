@@ -1,4 +1,4 @@
-# catalog-enrichment-skill
+# genpark-catalog-enrichment-skill
 
 > **GenPark AI Agent Skill** -- Auto-enrich product catalogs by detecting missing attributes, generating descriptions, inferring categories, and scoring completeness.
 
